@@ -13,7 +13,7 @@ keywords = ["langfuse", "observability", "llm", "tracing", "monitoring"]
 categories = ["api-bindings", "web-programming::http-client", "development-tools::debugging"]
 
 [dependencies]
-langfuse-client-base = { path = "../langfuse-client-base", version = "0.1.0" }
+langfuse-client-base = { path = "../langfuse-client-base", version = "0.1.1" }
 bon = { workspace = true }
 serde = { workspace = true }
 serde_json = { workspace = true }
